@@ -26,7 +26,8 @@ Dette Python-programmet analyserer karakterdata fra en Excel-fil, genererer stat
 - **matplotlib** – Plotting og visualisering  
 - **SciPy** – Statistiske analyser (t-test)  
 - **spire.doc** – Generering av Word-rapport  
-- **tkinter** – GUI for filvalg  
+- **tkinter** – GUI for filvalg
+- **openpyxl** – Håndtering av excelfil i python
 
 ---
 
