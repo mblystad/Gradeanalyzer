@@ -40,7 +40,7 @@ Dette Python-programmet analyserer karakterdata fra en Excel-fil, genererer stat
    ```
 2. **Installer nødvendige biblioteker**  
    ```bash
-   pip install pandas matplotlib scipy spire.doc tk
+   pip install pandas matplotlib scipy spire.doc tk openpyxl
    ```
 3. **Kjør programmet**  
    ```bash
